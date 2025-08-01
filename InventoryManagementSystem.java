@@ -40,7 +40,7 @@ class Product {
 }
 
 // ---------------------- Inventory Class ----------------------
-class Inventory {
+public class Inventory {
     private List<Product> products = new ArrayList<>();
 
     public void addProduct(Product product) {
